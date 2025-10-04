@@ -1,3 +1,7 @@
+#Presentado por:😎
+Camilo Torres ☆*: .｡. o(≧▽≦)o .｡.:*☆
+Santiago Villamizar (●'◡'●)
+
 # 🏦 API de Transacciones Bancarias Concurrentes
 
 Esta es una API REST desarrollada con Spring Boot que demuestra el manejo de concurrencia en transacciones bancarias, implementando patrones de sincronización para evitar condiciones de carrera.
